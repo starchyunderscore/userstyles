@@ -1,6 +1,6 @@
 # userstyles
-various userstyles
 
-- large font for tapas
+list:
 
-- dark mode for codehs
+- [large font for tapas](https://github.com/starchyunderscore/userstyles/blob/main/styles/larger_font_for_tapas_writing_episodes.css)
+- [dark mode for codehs](https://github.com/starchyunderscore/userstyles/blob/main/styles/codehs-dark-mode)
