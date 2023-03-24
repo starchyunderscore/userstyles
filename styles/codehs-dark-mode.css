@@ -160,9 +160,13 @@ div.chart-container canvas:not([class^="droplet-"]):not(.monaco-editor canvas):n
 .__abacus_file span:hover{background:#555!important;}
 .__abacus_button.__abacus_text-black{background:#000;color:#fff;}
 .__abacus_button.__abacus_text-dark-red{background:#000;color:#f44;}
+.__abacus_button.__abacus_text-blue{background:#000;color:#44f;}
 .__abacus_button.__abacus_greyOnHover:hover{background:#444;}
 span[class*="StyledText"]{color:#fff;}
 .badge.points-badge{background:#333!important;color:#fff!important;}
 h4 code{background:#333!important;}
 .btn-main-white{color:#fff;background:#000;border:2px solid var(--b);}
 .btn-main-white:hover{background:#333;color:#fff;}
+.connect-sidebar-content, .connect-sidebar-continue{background:#000!important;}
+div[class*="StyledBox"]{background:#000!important;color:#fff!important;border:1px solid var(--b)}
+div[class*="StyledBox"] *{border:none}
