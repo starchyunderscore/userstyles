@@ -172,3 +172,4 @@ div[class*="StyledBox"]{background:#000!important;color:#fff!important;border:1p
 div[class*="StyledBox"] *{border:none}
 div[aria-label="Assignment"],div[aria-label="Course"],div[aria-label="Settings"]{background:none!important;border:none;}
 .__abacus_runButton div {background:none!important;border:none;}
+#all-assignments-page #assignments-page-wrapper #course-sec .lesson-header .lesson-status.unopened:hover{background:#8a99a0!important;}
