@@ -173,3 +173,5 @@ div[class*="StyledBox"] *{border:none}
 div[aria-label="Assignment"],div[aria-label="Course"],div[aria-label="Settings"]{background:none!important;border:none;}
 .__abacus_runButton div {background:none!important;border:none;}
 .connect-sidebar-content ol, .connect-sidebar-content ul{color:#fff;}
+div.notes-wrap {background:#000!important;}
+#notes-item{background:#000;}
