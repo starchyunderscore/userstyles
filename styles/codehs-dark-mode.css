@@ -175,3 +175,4 @@ div[aria-label="Assignment"],div[aria-label="Course"],div[aria-label="Settings"]
 .connect-sidebar-content ol, .connect-sidebar-content ul{color:#fff;}
 div.notes-wrap {background:#000!important;}
 #notes-item{background:#000;}
+.join-class>div.wrap,.join-class>div.wrap>form>input[type="text"]{background:#000;color:#fff;}
