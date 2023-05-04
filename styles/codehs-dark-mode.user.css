@@ -1,9 +1,12 @@
 /* ==UserStyle==
-@name: CodeHS Dark Mode
-@version: 1
-@namespace: https://github.com/starchyunderscore
-@license: GNU General Public License v3.0
-*/
+@name           CodeHS Dark Mode
+@version        1.0.0
+@description    Dark mode for codehs.com
+@author         starchyunderscore
+@namespace      https://github.com/starchyunderscore
+@license        GNU General Public License v3.0
+==/UserStyle== */
+
 @-moz-document domain("codehs.com") {
   :root{--b:rgba(190,204,212,.25);}
   #logged-in-navbar,#logged-in-navbar li{background:#000;}
