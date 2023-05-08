@@ -10,10 +10,10 @@
     html,
     body,
     #main section,
-    div,
+    div:not([class*="Nri-Mastery-ProgressBar"]),
     h2,
     p,
-    button,
+    button:not([aria-label="Mastery"]),
     footer,
     footer *,
     ul > li[class*="student-dashboard-stat"],
@@ -26,7 +26,8 @@
     a
     {background:#000!important;}
     
-    nav a
+    nav a,
+    h1
     {color:#fff!important;}
     
     .nav-logo {background:url("https://www.noredink.com/assets/logo-red-black-f6989d7567cf90b349409137595e99c52d036d755b4403d25528e0fd83a3b084.svg")!important;}
