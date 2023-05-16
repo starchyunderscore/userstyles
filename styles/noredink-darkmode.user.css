@@ -11,7 +11,7 @@
     html,
     body,
     #main section,
-    div:not([class*="Nri-Mastery-ProgressBar"]),
+    div:not([class*="Nri-Mastery-ProgressBar"], [ class="correct-banner"]),
     h2,
     p,
     button:not([aria-label="Mastery"]),
@@ -21,7 +21,9 @@
     nav,
     div[data-nri-description="node"] > section,
     div[data-nri-description="node"] > section span,
-    ul span
+    ul span,
+    header[ class="quiz-header"],
+    main
     {background:#000!important;color:#fff!important;}
     
     a
