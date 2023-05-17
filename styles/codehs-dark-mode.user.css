@@ -187,5 +187,6 @@
   #notes-item{background:#000;}
   .join-class>div.wrap,.join-class>div.wrap>form>input[type="text"]{background:#000;color:#fff;}
   .__abacus_error-popup pre {color:#faa}
-  iframe:not([title="docs"]) {background:#fff;}
+  iframe {background:#fff;}
+  iframe[title="docs"] {background:#000;}
 }
