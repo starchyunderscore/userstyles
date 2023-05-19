@@ -189,4 +189,8 @@
   .__abacus_error-popup pre {color:#faa}
   iframe {background:#fff;}
   iframe[title="docs"] {background:#000;}
+  .mark-notification-as-read::before {color:#f44;}
+  .mark-notification-as-read {opacity:.7!important;}
+  .mark-notification-as-read:hover {opacity:1!important;}
+  .empty-msg {background:#000;}
 }
