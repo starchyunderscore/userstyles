@@ -193,4 +193,5 @@
   .mark-notification-as-read {opacity:.7!important;}
   .mark-notification-as-read:hover {opacity:1!important;}
   .empty-msg {background:#000;}
+  div#locked-item{background:#000;}
 }
