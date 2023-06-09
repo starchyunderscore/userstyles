@@ -100,7 +100,6 @@
   #sidebar-overview-tab pre{background:#000;color:#ff9999;border:1px solid var(--b);}
   #sidebar-overview-tab .docs-title,div.objective{color:#fff!important;}
   pre.language-js{background:#000;border:1px solid var(--b);}
-  canvas{background:#fff;}
   .user-page-section div{color:#fff;}
   .take-qotd{color:#fff;}
   .quiz-questions pre{background:#000;}
@@ -187,11 +186,13 @@
   #notes-item{background:#000;}
   .join-class>div.wrap,.join-class>div.wrap>form>input[type="text"]{background:#000;color:#fff;}
   .__abacus_error-popup pre {color:#faa}
-  iframe {background:#fff;}
-  iframe[title="docs"] {background:#000;}
+  iframe:not([title="docs"]) {background:#fff;}
+  .__abacus_docs {background:#000!important;}
   .mark-notification-as-read::before {color:#f44;}
   .mark-notification-as-read {opacity:.7!important;}
   .mark-notification-as-read:hover {opacity:1!important;}
   .empty-msg {background:#000;}
   div#locked-item{background:#000;}
+  body{background:#000;}
+  #canvas{background:#fff;}
 }
