@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           CodeHS Dark Mode
-@version        1.0.0
+@version        1.0.1
 @description    Dark mode for codehs.com
 @author         starchyunderscore
 @namespace      https://github.com/starchyunderscore
@@ -33,7 +33,7 @@
   .modal-footer{margin-top:0;}
   #tester-message{color:#fff!important;}
   div.tab-pane{background:#000;color:#fff;}
-  pre.prettyprint{background:#000!important;border:1px solid #fff;color:var(--b);}
+  pre.prettyprint{background:#000!important;border:1px solid #fff;color:#fff;}
   pre.prettyprint span.pun,pre.prettyprint span.pln{color:#fff!important;}
   pre.prettyprint span.com{color:#faa;}
   pre.prettyprint span.str{color:#8f8!important;}
