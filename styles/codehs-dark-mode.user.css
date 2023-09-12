@@ -199,4 +199,5 @@
   div.ide-container.ide>div{background:#000;color:#fff;}
   div.switch.has-switch:hover label{background:#333;}
   span.switch-right>i{color:#000;}
+  a.file.active{color:#fff!important;}
 }
