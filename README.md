@@ -1,10 +1,8 @@
-# userstyles
-
-Note that none of these styles are perfect, and some are less useable than others.
-
-list:
-
-- [large font for tapas](https://github.com/starchyunderscore/userstyles/blob/main/styles/larger_font_for_tapas_writing_episodes.css/)
-- CodeHS Dark Mode [code](https://github.com/starchyunderscore/userstyles/blob/main/styles/codehs-dark-mode.user.css/) -- [install with stylus](https://raw.githubusercontent.com/starchyunderscore/userstyles/main/styles/codehs-dark-mode.user.css)
+## Requirements:
+- A userstyles manager, like [Stylus](https://add0n.com/stylus.html) [(Chromium)](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) [(Firefox)](https://addons.mozilla.org/en-US/firefox/addon/styl-us/).
+## Popular Userstyles:
+- [CodeHS Dark Mode](https://github.com/starchyunderscore/userstyles/blob/main/styles/codehs-dark-mode.user.css/) -- [install with Stylus](https://raw.githubusercontent.com/starchyunderscore/userstyles/main/styles/codehs-dark-mode.user.css)
   - Use `monokai`, `terminal`, or `solarized dark` editor themes
-- NoRedInk Dark Mode [code](https://github.com/starchyunderscore/userstyles/blob/main/styles/noredink-darkmode.user.css/) -- [install with stylus](https://raw.githubusercontent.com/starchyunderscore/userstyles/main/styles/noredink-darkmode.user.css)
+- [NoRedInk Dark Mode](https://github.com/starchyunderscore/userstyles/blob/main/styles/noredink-darkmode.user.css/) -- [install with Stylus](https://raw.githubusercontent.com/starchyunderscore/userstyles/main/styles/noredink-darkmode.user.css)
+
+[All Userstyles](https://github.com/starchyunderscore/userstyles/tree/main/styles)
