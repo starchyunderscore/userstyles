@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           CodeHS Dark Mode
-@version        1.0.3
+@version        1.0.4
 @description    Dark mode for codehs.com
 @author         starchyunderscore
 @namespace      https://github.com/starchyunderscore
@@ -203,4 +203,8 @@
   div#error-popup,div#error-popup div.original-message,div#error-popup div.simple-message{background:#000;color:#fff;}
   div#error-popup div.simple-message span.code{background:#333;color:#faa!important;}
   div#for-loop-vars{color:#fff;}
+  #title{color:#fff!important;}
+  div.notification,div.read-notification{background:#111!important;}
+  div.notification *{color:#fff!important;}
+  div.notification div.notification-message{color:#fcf!important;}
 }
