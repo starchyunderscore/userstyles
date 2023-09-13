@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           CodeHS Dark Mode
-@version        1.0.5
+@version        1.0.6
 @description    Dark mode for codehs.com
 @author         starchyunderscore
 @namespace      https://github.com/starchyunderscore
@@ -208,4 +208,7 @@
   div.notification *{color:#fff!important;}
   div.notification div.notification-message{color:#fcf!important;}
   .manage-account-buttons>a{color:#fff!important;}
+  div.change-password-page{background:#000;}
+  div.change-password-page>.wrap{background:#111;}
+  div.change-password-page>.wrap input{background:#000;color:#fff;border:1px solid #333;}
 }
