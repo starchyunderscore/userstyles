@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           CodeHS Dark Mode
-@version        1.0.7
+@version        1.0.8
 @description    Dark mode for codehs.com
 @author         starchyunderscore
 @namespace      https://github.com/starchyunderscore
@@ -216,4 +216,6 @@
   div#video-view-notepad-container>.ql-toolbar.ql-snow>.ql-formats svg *{stroke:#fff!important;color:#fff!important;}
   span.ql-font.ql-picker{color:#fff;}
   #ql-picker-options-0,#ql-picker-options-1,#ql-picker-options-2{background:#000;}
+  #turtle-objective-world{background:#fff;}
+  li{color:#fff;}
 }
