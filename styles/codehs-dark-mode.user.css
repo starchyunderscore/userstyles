@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           CodeHS Dark Mode
-@version        1.0.15
+@version        1.16
 @description    Dark mode for codehs.com
 @author         starchyunderscore
 @namespace      https://github.com/starchyunderscore
@@ -229,4 +229,9 @@
   .world-builder>div>label,.world-builder>div>.btn-group>.btn,#clear_balls{color:#fff;background:#000;}
   div.world-selector .btn-default,div.world-selector label{color:#fff;background:#000}
   div#status-message.bg-grey{background:#333;}
+  #droplet-code-toggle{color:#fff;background:#000!important;}
+  canvas.droplet-main-canvas,canvas.droplet-palette-canvas{background:#000;}
+  div.droplet-gutter{color:#fff;background:#000;border-right:1px solid #fff;border-left:1px solid #fff;}
+  div.droplet-palette-header{background:#000!important;}
+  div.droplet-palette-group-header{color:#fff;}
 }
