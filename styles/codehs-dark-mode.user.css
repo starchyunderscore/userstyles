@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           CodeHS Dark Mode
-@version        1.19
+@version        1.20
 @description    Dark mode for codehs.com
 @author         starchyunderscore
 @namespace      https://github.com/starchyunderscore
@@ -177,7 +177,7 @@
   .btn-main-white{color:#fff;background:#000;border:2px solid var(--b);}
   .btn-main-white:hover{background:#333;color:#fff;}
   .connect-sidebar-content, .connect-sidebar-continue{background:#000!important;}
-  div[class*="StyledBox"]{background:#000!important;color:#fff!important;border:1px solid var(--b)}
+  /*div[class*="StyledBox"]{background:#000!important;color:#fff!important;border:1px solid var(--b)}*/
   div[class*="StyledBox"] *{border:none}
   div[aria-label="Assignment"],div[aria-label="Course"],div[aria-label="Settings"]{background:none!important;border:none;}
   .__abacus_runButton div {background:none!important;border:none;}
