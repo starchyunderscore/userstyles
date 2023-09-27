@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           CodeHS Dark Mode
-@version        1.0.13
+@version        1.0.14
 @description    Dark mode for codehs.com
 @author         starchyunderscore
 @namespace      https://github.com/starchyunderscore
@@ -227,4 +227,5 @@
   form#karel-world-form label, form#karel-world-form a.btn-default, form#karel-world-form input{background:#000;color:#fff;}
   form#karel-world-form div.noUi-base, form#karel-world-form div.noUi-handle{background:#333;box-shadow:none;}
   .world-builder>div>label,.world-builder>div>.btn-group>.btn,#clear_balls{color:#fff;background:#000;}
+  div.world-selector .btn-default,div.world-selector label{color:#fff;background:#000}
 }
