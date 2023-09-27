@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           CodeHS Dark Mode
-@version        1.17
+@version        1.18
 @description    Dark mode for codehs.com
 @author         starchyunderscore
 @namespace      https://github.com/starchyunderscore
@@ -236,4 +236,5 @@
   div.droplet-palette-group-header{color:#fff;}
   .checkbox-switch-ui .checkbox-switch-inner::after{color:#fff;background:#333;}
   .checkbox-switch-ui label{border:1px solid transparent;}
+  .__abacus_playButton div{background:transparent!important;border:none;}
 }
