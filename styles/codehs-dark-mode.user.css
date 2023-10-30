@@ -242,4 +242,7 @@
   #output>pre{color:#fff;background:#000;}
   .error-box>h3,.error-box>ol>li{background:#000;color:#fff;border:none;}
   .error-box>ol>li>pre{background:#333;color:#faa;}
+  div.xterm-viewport{background:#000!important;}
+  canvas.xterm-text-layer{filter:invert(1);}
+  div.terminal.xterm{border:1px solid #555!important;}
 }
