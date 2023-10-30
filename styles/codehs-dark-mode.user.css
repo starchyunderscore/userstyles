@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           CodeHS Dark Mode
-@version        1.21
+@version        1.22
 @description    Dark mode for codehs.com
 @author         starchyunderscore
 @namespace      https://github.com/starchyunderscore
@@ -240,4 +240,6 @@
   .__abacus_console-wrapper.__abacus_light-mode{background:#000;}
   #js-bit-interpreter>.controls-wrapper,#js-bit-interpreter>.controls-wrapper>.control-header,#js-encoding-table>.num-bits-wrapper,#js-encoding-table>.encoding-input-box,#js-encoding-table>.encoding-input-box>.input-wrapper>input,#js-bit-interpreter>.controls-wrapper>.format-bits-wrapper{background:#000;color:#fff;}
   #output>pre{color:#fff;background:#000;}
+  .error-box>h3,.error-box>ol>li{background:#000;color:#fff;border:none;}
+  .error-box>ol>li>pre{background:#333;color:#faa;}
 }
