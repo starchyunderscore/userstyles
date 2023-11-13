@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           CodeHS Dark Mode
-@version        1.23
+@version        1.24
 @description    Dark mode for codehs.com
 @author         starchyunderscore
 @namespace      https://github.com/starchyunderscore
@@ -246,4 +246,16 @@
   canvas.xterm-text-layer{filter:invert(1);}
   div.terminal.xterm{border:1px solid #555!important;}
   .docs-section-sub-header{color:#fff;}
+  .__abacus_hidden-code{background:#000;color:#fff;}
+.__abacus_history-tab-preview pre{background:#333;color:#faa;}
+.__abacus_history-snapshot{color:#fff}
+.__abacus_history-snapshot:hover{background:#333!important;}
+.__abacus_history-tab-preview p:nth-of-type(2){background:#333!important;}
+.__abacus_history-tab-preview>section>span{color:#fff;}
+.jJlPeJ{background:#000;color:#fff!important;}
+input:not(:checked)+span[class*="StyledCheckBox__StyledCheckBoxToggle"]{background:#33;}
+#course-search{color:#fff!important;}
+a.search-item{background:#333;}
+a.search-item>span.item-title{color:#fff!important;}
+#sidebar-content-tab.tab-pane a.search-item{margin-left:5%;width:90%;}
 }
