@@ -254,6 +254,12 @@
   .jJlPeJ{background:#000;color:#fff!important;}
   input:not(:checked)+span[class*="StyledCheckBox__StyledCheckBoxToggle"]{background:#33;}
   #course-search{color:#fff!important;}
+  .search-item{background:#000!important;}
   a.search-item>span.item-title{color:#fff!important;}
   #sidebar-content-tab.tab-pane a.search-item{margin-left:5%;width:90%;}
+  #certificate{filter:invert(1);}
+  #certificate #code{color:#000!important;}
+  #certificate #logo{filter:invert(1);}
+  #certificate #title, #certificate #subtitle, #certificate #student, #certificate #course, #certificate #course .course-description-emphasis{color:#000!important;}
+  .quiz-question-description img, .question-answer-text img{filter:invert(1);}
 }
