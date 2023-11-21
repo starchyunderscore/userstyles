@@ -262,4 +262,5 @@
   #certificate #logo{filter:invert(1);}
   #certificate #title, #certificate #subtitle, #certificate #student, #certificate #course, #certificate #course .course-description-emphasis{color:#000!important;}
   .quiz-question-description img, .question-answer-text img{filter:invert(1);}
+  #quill-exercise-description{color:#fff}
 }
