@@ -265,4 +265,5 @@
   #quill-exercise-description{color:#fff}
   .subtle{color:#fff;}
   .heading{color:#fff;}
+  #assignment-grades-list>div.wrap{background:#000;border:1px solid #555;}
 }
