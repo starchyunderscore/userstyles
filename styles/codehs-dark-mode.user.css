@@ -261,7 +261,7 @@
   #certificate #code{color:#000!important;}
   #certificate #logo{filter:invert(1);}
   #certificate #title, #certificate #subtitle, #certificate #student, #certificate #course, #certificate #course .course-description-emphasis{color:#000!important;}
-  .quiz-question-description img, .question-answer-text img{filter:invert(1);}
+  .quiz-question-description img:not([alt*="pixel"]), .question-answer-text img:not([alt*="pixel"]){filter:invert(1);}
   #quill-exercise-description{color:#fff}
   .subtle{color:#fff;}
   .heading{color:#fff;}
