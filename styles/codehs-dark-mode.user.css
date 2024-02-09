@@ -268,4 +268,5 @@
   #assignment-grades-list>div.wrap{background:#000;border:1px solid #555;}
   .lesson-toggle,.module-toggle{background:#000;}
   #problem-sidebar{background:#000;}
+  canvas:not([class*="xterm"]){background:#fff;}
 }
