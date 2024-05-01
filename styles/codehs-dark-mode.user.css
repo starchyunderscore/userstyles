@@ -269,4 +269,11 @@
   .lesson-toggle,.module-toggle{background:#000;}
   #problem-sidebar{background:#000;}
   canvas:not([class*="xterm"]){background:#fff;}
+  .activity{background:#333!important;}
+#footer-content>div{background:#000!important;}
+.footlinks a{color:#fff!important;}
+.footlinks a:hover,.footlink-header>a:hover{text-decoration:underline!important;}
+.footlink-header,.footlink-header>a{color:#aaf!important;}
+.social-media-links>svg,.social-media-links>i{fill:#fff!important;color:#fff!important;}
+.social-media-links>img{filter:brightness(50);}
 }
