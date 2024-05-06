@@ -276,4 +276,6 @@
 .footlink-header,.footlink-header>a{color:#aaf!important;}
 .social-media-links>svg,.social-media-links>i{fill:#fff!important;color:#fff!important;}
 .social-media-links>img{filter:brightness(50);}
+.repl-terminal>div>pre{background:#000!important;}
+  a.file{color:#fff!important;}
 }
