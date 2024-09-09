@@ -296,4 +296,9 @@
   li[class^="L"] .typ{color:#f7f;}
   a[class*="LayerContainer__HiddenAnchor"]+div{background:#000;color:#fff;border:1px solid #555;}
   .notes-banner{background:#000!important;}
+  div.e.J,div.s.p{background:#000!important;}
+  div.zo.Do{background:#333;border-color:#333;}
+  li.Uo.c>span{background:#222!important;}
+  li.Uo.c>span:hover{background:#555!important;}
+  li.Uo.c>span path {color:#fff;}
 }
