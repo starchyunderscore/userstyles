@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           CodeHS Dark Mode
-@version        1.24
+@version        1.25
 @description    Dark mode for codehs.com
 @author         starchyunderscore
 @namespace      https://github.com/starchyunderscore
@@ -8,6 +8,7 @@
 ==/UserStyle== */
 
 @-moz-document domain("codehs.com") {
+  :not(:not(html[lang*="en"])){
   :root{--b:rgba(190,204,212,.25);}
   #logged-in-navbar,#logged-in-navbar li{background:#000;}
   div.take-quiz-page{background:#000;color:#fff;}
@@ -301,4 +302,18 @@
   li.Uo.c>span{background:#222!important;}
   li.Uo.c>span:hover{background:#555!important;}
   li.Uo.c>span path {color:#fff;}
+  #tool-topnav{background:#000;}
+  .subsidenav-links>li>a{color:#fff!important;}
+  .subsidenav-links>li>a:hover{background:#333!important;}
+  .subsidenav-links>li>a:focus{background:#300!important;}
+  .dashboard-title{color:#fff;}
+  .dropdown-toggle{background:#000;color:#fff!important;}
+  .dropdown-toggle:hover{background:#333!important;}
+  .dropdown-toggle:focus{background:#300!important;}
+  .dropdown-toggle:active{background:#555!important;}
+  .dropdown-item>span.text{color:#fff!important;}
+  #all-assignments-page #assignments-page-wrapper #course-sec .lesson-header .lesson-status:hover{background-color:#555!important;}
+  #all-assignments-page #assignments-page-wrapper #course-sec .lesson-header .module-item:not(.passed-review):hover{background-color:#555!important;}
+  .module-item.unopened,.lesson-status.unopened{background-color:#333!important;}
+  }
 }
