@@ -315,5 +315,6 @@
   #all-assignments-page #assignments-page-wrapper #course-sec .lesson-header .lesson-status:hover{background-color:#555!important;}
   #all-assignments-page #assignments-page-wrapper #course-sec .lesson-header .module-item:not(.passed-review):hover{background-color:#555!important;}
   .module-item.unopened,.lesson-status.unopened{background-color:#333!important;}
+  div.quiz-wrap{background:#000;}
   }
 }
